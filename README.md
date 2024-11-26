@@ -1,2 +1,2 @@
 # Lixotech
-Projeto Iot com microcontrolador NodeMCU ESP32 em C++, desenvolvido sob orientação do prof. Lucas Sampaio Leite da turma de "Desenvolvimento Cloud e Iot" na Faculdade Estácio de Sá.
+Este projeto foi desenvolvido para gerenciar o comportamento de um circuito de lixeiras automatizadas para utilização pública em cidades inteligentes. Ele monitora o nível da lixeira, abre e fecha a tampa com base na proximidade de objetos e indica se a lixeira está cheia através de LEDs indicativos. Além disso, o status da lixeira cheia é enviado para a plataforma ThingSpeak via Wi-Fi. O projeto foi realizado com microcontrolador NodeMCU ESP32 em programado com Arduino IDE programado em linguagem C++
